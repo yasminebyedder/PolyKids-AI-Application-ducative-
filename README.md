@@ -3,7 +3,6 @@
 **Application mobile éducative intelligente pour enfants de 3 à 10 ans**
 
 Une application qui transforme l'environnement réel de l'enfant en contenu éducatif interactif, grâce à la reconnaissance d'objets par IA, l'extraction de texte (OCR) et la traduction automatique avec synthèse vocale.
-![Capture d'écran 2026-07-14 230014](https://github.com/user-attachments/assets/xxxxx-xxxxx-xxxxx.png)
 
 ## 📖 À propos du projet
 
