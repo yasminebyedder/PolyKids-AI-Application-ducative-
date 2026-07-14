@@ -16,7 +16,6 @@ Les méthodes d'apprentissage traditionnelles montrent parfois leurs limites en 
 - **Ben Yedder Yasmine**
 - **Abbes Nour**
 
-**Encadrante :** Mme Dorra Lounissi (ENSTAB)
 **Année universitaire :** 2025-2026
 
 ---
