@@ -11,7 +11,7 @@ Ce projet est un **rapport de fin d'année (PFA1)** réalisé à l'**École Nati
 Les méthodes d'apprentissage traditionnelles montrent parfois leurs limites en matière d'interaction avec l'environnement réel. PolyKids AI propose une approche différente : l'enfant utilise simplement la caméra de son smartphone pour explorer le monde qui l'entoure — un objet, un mot, une affiche — et l'application transforme cette observation en expérience d'apprentissage vivante.
 
 ### 👩‍💻 Réalisé par
-- **Ben Yedder Yasmine**
+- **Ben Yedder Yasmine**(moi)
 - **Abbes Nour**
 
 **Année universitaire :** 2025-2026
